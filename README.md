@@ -1,5 +1,15 @@
 # Vagner Nerves
 
+I'm a developer.
+
+[![Linkedin Badge](https://img.shields.io/badge/-VagnerNerves-00006a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/) 
+[![Gmail Badge](https://img.shields.io/badge/-vagnernervessantos@gmail.com-00006a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnernervessantos@gmail.com)](mailto:vagnernervessantos@gmail.com)
+
+- 💻 Graduated in Systems Analysis and Development from Faculdade QI.
+- 📍 I live in Cachoeirinha/RS, Brazil.
+- 🔍 Studying React and React Native.
+
+
 <!--
 **VagnerNerves/VagnerNerves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
