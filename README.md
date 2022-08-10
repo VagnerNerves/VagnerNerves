@@ -2,8 +2,8 @@
 
 I'm a developer.
 
-[![Linkedin Badge](https://img.shields.io/badge/-VagnerNerves-00006a?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/) 
-[![Gmail Badge](https://img.shields.io/badge/-vagnernervessantos@gmail.com-00006a?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnernervessantos@gmail.com)](mailto:vagnernervessantos@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-VagnerNerves-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/) 
+[![Gmail Badge](https://img.shields.io/badge/-vagnernervessantos@gmail.com-1f6feb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnernervessantos@gmail.com)](mailto:vagnernervessantos@gmail.com)
 
 - 💻 Graduated in Systems Analysis and Development from Faculdade QI.
 - 📍 I live in Cachoeirinha/RS, Brazil.
