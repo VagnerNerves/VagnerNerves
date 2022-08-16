@@ -1,9 +1,11 @@
-# Vagner Nerves
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:1f6feb&height=210&section=header&text=Vagner%20Nerves&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=I%27m%20a%20developer.&descAlignY=50">
 
-I'm a developer.
-
+<div align="center">
+  
 [![Linkedin Badge](https://img.shields.io/badge/-VagnerNerves-1f6feb?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vagnernervessantos/)](https://www.linkedin.com/in/vagnernervessantos/) 
 [![Gmail Badge](https://img.shields.io/badge/-vagnernervessantos@gmail.com-1f6feb?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vagnernervessantos@gmail.com)](mailto:vagnernervessantos@gmail.com)
+  
+</div>
 
 - 💻 Graduated in Systems Analysis and Development from Faculdade QI.
 - 📍 I live in Cachoeirinha/RS, Brazil.
