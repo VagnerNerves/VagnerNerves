@@ -11,6 +11,12 @@
 - 📍 I live in Cachoeirinha/RS, Brazil.
 - 🔍 Studying React and React Native.
 
+<br>
+
+<div align="center">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VagnerNerves&show_icons=true&hide=contribs"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerNerves&layout=compact"/>
+</div>
 
 <!--
 **VagnerNerves/VagnerNerves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
