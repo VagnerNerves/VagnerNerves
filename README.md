@@ -15,6 +15,7 @@
 - 💻 Graduated in Systems Analysis and Development from [Faculdade QI](https://qi.edu.br/).
 - 📍 I live in Cachoeirinha/RS, Brazil.
 
+<br>
 
 ### 🛠️ Technologies I master
 <div align="center">
