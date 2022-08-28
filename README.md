@@ -7,14 +7,24 @@
   
 </div>
 
-- 💻 Graduated in Systems Analysis and Development from Faculdade QI.
+- 🔥 FullStack PL Developer.
+- 🔭 Currently I work at [Linx](https://www.linkedin.com/company/linxretail) developing an ERP system focused on the financial part, with Delphi, C# .Net6, Angular, Oracle Database and SQL Server technologies.
+- 🌱 I am currently learning/studying React and React Native.
+- 💻 Graduated in Systems Analysis and Development from [Faculdade QI](https://qi.edu.br/).
 - 📍 I live in Cachoeirinha/RS, Brazil.
-- 🔍 Studying React and React Native.
 
-<br>
+
+### Technologies I master
+<div align="center">
+  <img height="140em" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+  <img height="140em" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+  <img height="140em" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+</div>
+
+### ⚙️ GitHub Analytics
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VagnerNerves&show_icons=true&hide=contribs&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true"/>
+  <img height="10em" src="https://github-readme-stats.vercel.app/api?username=VagnerNerves&show_icons=true&hide=contribs&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerNerves&layout=compact&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true"/>
 </div>
 
