@@ -16,9 +16,15 @@
 
 ### 🛠️ Technologies I master
 <div align="center">
-  <img height="25em" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
-  <img height="25em" alt="Database Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-  <img height="25em" alt="Database SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  <a href="https://www.embarcadero.com/br/products/delphi">
+    <img height="25em" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+  </a>
+  <a href="https://www.oracle.com/br/database/">
+    <img height="25em" alt="Database Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
+  </a>
+  <a href="https://www.microsoft.com/pt-br/sql-server/">
+    <img height="25em" alt="Database SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+  </a>
 </div>
 
 ### ⚙️ GitHub Analytics
