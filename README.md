@@ -19,8 +19,14 @@
 
 ### 🛠️ Technologies I master
 <div align="center">
-  <a href="https://www.embarcadero.com/br/products/delphi">
-    <img height="25em" alt="Delphi" src="https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img height="25em" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img height="25em" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  </a>
+  <a href="https://pt-br.reactjs.org/">
+    <img height="25em" alt="React" src="https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
   <a href="https://www.oracle.com/br/database/">
     <img height="25em" alt="Database Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
