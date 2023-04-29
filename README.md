@@ -1,5 +1,5 @@
 <a href="https://github.com/VagnerNerves">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:1f6feb&height=210&section=header&text=Vagner%20Nerves&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=I%27m%20a%20developer%20looking%20for%20evolution.&descAlignY=50">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:1f6feb&height=210&section=header&text=Vagner%20Nerves&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=I%27m%20a%20developer%20in%20search%20of%20evolution.&descAlignY=50">
 </a>
 
 <div align="center">
@@ -10,9 +10,9 @@
 </div>
 
 - 🔥 FullStack PL Developer.
-- 🔭 Currently I work at [Linx](https://www.linkedin.com/company/linxretail) developing an ERP system focused on the financial part, with Delphi, C# .Net6, Angular, Oracle Database and SQL Server technologies.
-- 🌱 I am currently learning/studying React and React Native.
-- 💻 Graduated in Systems Analysis and Development from [Faculdade QI](https://qi.edu.br/).
+- 🔭 Currently, I work at [Linx](https://www.linx.com.br/) as a developer, where I am responsible for analyzing and solving complex problems. Additionally, I am constantly challenged to deliver innovative solutions that ensure efficiency and timely delivery, thus contributing to the success of the company and clients.
+- 🌱 At the moment, I'm focusing my studies on React and React Native to enhance my skills as a developer.
+- 💻 Graduate in Systems Analysis and Development from [Faculdade QI](https://qi.edu.br/).
 - 📍 I live in Cachoeirinha/RS, Brazil.
 
 <br>
@@ -25,8 +25,14 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
     <img height="25em" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   </a>
-  <a href="https://pt-br.reactjs.org/">
-    <img height="25em" alt="React" src="https://img.shields.io/badge/React-0095D5?style=for-the-badge&logo=react&logoColor=white"/>
+  <a href="https://pt-br.react.dev/">
+    <img height="25em" alt="React" src="https://img.shields.io/badge/React-087ea4?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  <a href="https://reactnative.dev/">
+    <img height="25em" alt="React Native" src="https://img.shields.io/badge/React%20Native-282c34?style=for-the-badge&logo=react&logoColor=white"/>
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img height="25em" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white"/>
   </a>
   <a href="https://www.oracle.com/br/database/">
     <img height="25em" alt="Database Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
