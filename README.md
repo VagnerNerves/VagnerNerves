@@ -10,7 +10,6 @@
 </div>
 
 - 🔥 I'm a Developer.
-- 🔭 Currently, I work at [Linx](https://www.linx.com.br/) as a developer, where I am responsible for analyzing and solving complex problems. Additionally, I am constantly challenged to deliver innovative solutions that ensure efficiency and timely delivery, thus contributing to the success of the company and clients.
 - 🌱 At the moment, I'm focusing my studies on React and React Native to enhance my skills as a developer.
 - 💻 Graduate in Systems Analysis and Development from [Faculdade QI](https://qi.edu.br/).
 - 📍 I live in Cachoeirinha/RS, Brazil.
