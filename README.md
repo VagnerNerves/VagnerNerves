@@ -9,7 +9,7 @@
   
 </div>
 
-- 🔥 I'm a Developer.
+- 🔥 I'm a Mobile and Web Developer.
 - 🌱 At the moment, I'm focusing my studies on React and React Native to enhance my skills as a developer.
 - 💻 Graduate in Systems Analysis and Development from [Faculdade QI](https://qi.edu.br/).
 - 📍 I live in Cachoeirinha/RS, Brazil.
