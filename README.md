@@ -51,10 +51,3 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerNerves&layout=compact&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true"/>
   </a>  
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/VagnerNerves/VagnerNerves/blob/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/VagnerNerves/VagnerNerves/blob/output/github-contribution-grid-snake.svg">
-  <img alt="git hub Snack" src="https://github.com/VagnerNerves/VagnerNerves/blob/output/github-contribution-grid-snake.svg">
-</picture>
-
