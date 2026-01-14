@@ -17,6 +17,7 @@
 <br>
 
 ### 🛠️ Technologies I master
+
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
     <img height="25em" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,15 +40,4 @@
   <a href="https://www.microsoft.com/pt-br/sql-server/">
     <img height="25em" alt="Database SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   </a>
-</div>
-
-### ⚙️ GitHub Analytics
-
-<div align="center">
-  <a href="https://github.com/VagnerNerves">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=VagnerNerves&show_icons=true&hide=contribs&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true&hide_rank=true"/>
-  </a>  
-  <a href="https://github.com/VagnerNerves">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VagnerNerves&layout=compact&text_color=ffffff&title_color=ffffff&icon_color=ffffff&bg_color=1f6feb&hide_border=true"/>
-  </a>  
 </div>
