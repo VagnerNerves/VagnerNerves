@@ -42,6 +42,11 @@
   </a>
 </div>
 
+<br>
+<br>
+<br>
+<br>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VagnerNerves/VagnerNerves/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VagnerNerves/VagnerNerves/output/pacman-contribution-graph.svg">
