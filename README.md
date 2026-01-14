@@ -41,3 +41,9 @@
     <img height="25em" alt="Database SQL Server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
   </a>
 </div>
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VagnerNerves/VagnerNerves/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VagnerNerves/VagnerNerves/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VagnerNerves/VagnerNerves/output/pacman-contribution-graph.svg">
+</picture>
